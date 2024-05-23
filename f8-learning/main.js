@@ -1,6 +1,36 @@
-function writeLog (testMessage)
-{
-    console.log(testMessage);
-}
+// function writeLog (testMessage)
+// {
+//     console.log(testMessage);
+// }
 
-writeLog('sech')
+// writeLog('sech')
+
+// function sum(a, b){
+//     console.log(a + b);
+// }
+
+// sum(10, 20);
+
+// function triple(x)
+// {
+//     console.log(x);
+// }
+
+// function sum(a, b) {
+//     return a+b;
+// }
+
+// function sum(a, b) {
+//     return a + b;
+// }
+// console.log(sum(10, 20));
+
+// function triple(x) {
+//     return x * 3;
+// }
+
+function triple(x) {
+    return x * 3;
+}
+var result = triple(10)
+console.log(result)
