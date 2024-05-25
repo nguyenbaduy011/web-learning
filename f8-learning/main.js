@@ -29,8 +29,20 @@
 //     return x * 3;
 // }
 
-function triple(x) {
-    return x * 3;
-}
-var result = triple(10)
-console.log(result)
+// function triple(x) {
+//     return x * 3;
+// }
+// var result = triple(10)
+// console.log(result)
+
+// function declarationFunction(){
+//     console.log('declarationFunction')
+// }
+
+// var expressionFunction = function(){
+//     console.log('expressionFunction')
+// }
+
+var myname = 'Nguyen Ba Duy'
+
+console.log(myname.length)
